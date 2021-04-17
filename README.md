@@ -14,5 +14,5 @@ int main()
    area = length * breadth;
    cout << "\n area of Rectangle : " << area;
  
-   return (0);
+   return 0;
 }
